@@ -18,7 +18,7 @@ Rashwanth-Email Subscription is a simple website template that allows users to s
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Email-Subscription/
+     https://rashwanthashok.github.io/Email-Subscription/
 ## Getting Started:
 
 To use the Rashwanth-Email Subscription website template and integrate it with Google Sheets, follow these steps:
